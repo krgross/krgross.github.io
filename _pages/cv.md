@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My CV can be downloaded [here](/files/cv.pdf){:target="\_blank"}.
+My CV can be found [here](/files/cv.pdf){:target="\_blank"}.

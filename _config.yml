@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Gross"
-  avatar           : "profile-photo.jpg"  # KG: Default listed this as a PNG.  Should I convert the image?
+  avatar           : "moorea-beach.jpg"  # KG: Default listed this as a PNG.  Should I convert the image?
   bio              : "Science of science, statistics, ecology"
   location         : "Raleigh, NC, USA"
   employer         :
@@ -184,9 +184,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  # permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
