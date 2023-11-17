@@ -1,5 +1,5 @@
 ---
-title: "Talks and presentations (incomplete)"
+title: "Talks and presentations (in progress)"
 permalink: /talks/
 ---
 
