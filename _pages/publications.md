@@ -15,9 +15,9 @@ permalink: /publications/
 
 ### 2024
 
-  * **Developing Practical Measures of the Price of Pesticide Resistance: A Flexible Computational Framework with Global Sensitivity Analysis**
+  * **Developing practical measures of the price of pesticide resistance: A flexible computational framework with global sensitivity analysis**
   
-    Chanheung Cho, Zachary Brown, KG, and David Tregeagle. _JJournal of the Agricultural and Applied Economics Association_, forthcoming.
+    Chanheung Cho, Zachary Brown, KG, and David Tregeagle. _Journal of the Agricultural and Applied Economics Association_, forthcoming.
 
 ### 2022
 
