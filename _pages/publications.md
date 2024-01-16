@@ -13,6 +13,12 @@ permalink: /publications/
   
     KG and Carl T. Bergstrom. [link](https://arxiv.org/abs/2306.13816){:target="\_blank"} 
 
+### 2024
+
+  * **Developing Practical Measures of the Price of Pesticide Resistance: A Flexible Computational Framework with Global Sensitivity Analysis**
+  
+    Chanheung Cho, Zachary Brown, KG, and David Tregeagle. _JJournal of the Agricultural and Applied Economics Association_, forthcoming.
+
 ### 2022
 
   * **Beached _Sargassum_ alters sand thermal environments: Implications for incubating sea turtle eggs**

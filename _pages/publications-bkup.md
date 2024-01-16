@@ -1,7 +1,17 @@
 ---
-title: "Publications"
+title: "Publications and working papers"
 permalink: /publications/
 ---
+
+### Working papers (comments welcome)
+
+  * **Replication, varying effects, and the reliability of the scientific literature**
+  
+    Joe Bak-Coleman, Richard Mann, *et al.*. [link](https://osf.io/preprints/socarxiv/rkyf7/){:target="\_blank"}
+
+  * **Rationalizing risk aversion in science** 
+  
+    KG and Carl T. Bergstrom. [link](https://arxiv.org/abs/2306.13816){:target="\_blank"} 
 
 ### 2022
 
