@@ -3,7 +3,7 @@ permalink: /research/
 title: ""
 ---
 
-These days, I study the "science of science", that is, how the norms and institutions of science impact how scientists construct their research programs, and how that in turn affects the discoveries that scientists make.  I was originally trained as an ecological theorist, and I continue to maintain an interest in ecological theory especially as it pertains to population dynamics.  
+These days, I study the "science of science", that is, how the norms and institutions of science impact how scientists construct their research programs, and how that in turn affects the discoveries that scientists make.  I was originally trained as an ecological theorist.  While I am less active in this area now, I maintain an interest in ecological theory especially as it pertains to population dynamics.  
 
 # Science of science  
 
