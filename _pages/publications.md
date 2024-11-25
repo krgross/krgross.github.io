@@ -5,7 +5,7 @@ permalink: /publications/
 
 ### Working papers (comments welcome)
 
-  * **Replication, varying effects, and the reliability of the scientific literature**
+  * **Revisiting the replication crisis without false positives**
   
     Joe Bak-Coleman, Richard Mann, *et al.*. [link](https://osf.io/preprints/socarxiv/rkyf7/){:target="\_blank"}
 

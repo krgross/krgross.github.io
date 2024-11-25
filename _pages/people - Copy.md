@@ -3,6 +3,10 @@ permalink: /people/
 title: ""
 ---
 
+## Current
+
+* **Andrew Freedman** (jointly with George Kennedy), BMA / Entomology PhD student.  Andrew is interested in using a behavioral perspective to understand the spread of insect-vectored plant pathogens.
+
 ## Alumni
 
 ### Post-docs
@@ -18,8 +22,6 @@ title: ""
 * [**Judith Canner**](https://judith-canner.netlify.app/){:target="\_blank"} (jointly with Rob Dunn), Biomathematcs / Zoology PhD.  Judith studied the population ecology of ant-dispersed plants. 
 
 * **Ian Fiske**, Statistics PhD.  Ian studied the use of latent-variable models to analyze wildlife survey data with imperfect detection and ordinal responses.   
-
-* **Andrew Freedman** (jointly with George Kennedy), BMA / Entomology MS.  Andrew used a behavioral perspective to understand the spread of insect-vectored plant pathogens.
 
 * **Matt Hamilton**, Biomathematcs MS.  Matt studied the effect of dispersal on coexistence in a metacommunity model.
 

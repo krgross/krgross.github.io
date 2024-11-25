@@ -9,11 +9,12 @@ permalink: /publications/
   
     Joe Bak-Coleman, Richard Mann, *et al.*. [link](https://osf.io/preprints/socarxiv/rkyf7/){:target="\_blank"}
 
-  * **Rationalizing risk aversion in science** 
-  
-    KG and Carl T. Bergstrom. [link](https://arxiv.org/abs/2306.13816){:target="\_blank"} 
-
+ 
 ### 2024
+
+ * **Rationalizing risk aversion in science: Why incentives to work hard clash with incentives to take risks** 
+  
+    KG and Carl T. Bergstrom. _PLoS Biology_ 22(8):e3002750.  [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002750){:target="\_blank"} [preprint](https://arxiv.org/abs/2306.13816){:target="\_blank"} 
 
   * **Developing practical measures of the price of pesticide resistance: A flexible computational framework with global sensitivity analysis**
   
