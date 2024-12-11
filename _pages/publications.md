@@ -14,11 +14,11 @@ permalink: /publications/
 
  * **Rationalizing risk aversion in science: Why incentives to work hard clash with incentives to take risks** 
   
-    KG and Carl T. Bergstrom. _PLoS Biology_ 22(8):e3002750.  [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002750){:target="\_blank"} [preprint](https://arxiv.org/abs/2306.13816){:target="\_blank"} 
+    KG and Carl T. Bergstrom. _PLoS Biology_ 22(8):e3002750.  [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002750){:target="\_blank"} [pdf](/files/publications/Gross-2024-PlosBiol.pdf){:target="\_blank"}
 
   * **Developing practical measures of the price of pesticide resistance: A flexible computational framework with global sensitivity analysis**
   
-    Chanheung Cho, Zachary Brown, KG, and David Tregeagle. _Journal of the Agricultural and Applied Economics Association_, 1-16.  [link](http://dx.doi.org/10.1002/jaa2.107){:target="\_blank"}
+    Chanheung Cho, Zachary Brown, KG, and David Tregeagle. _Journal of the Agricultural and Applied Economics Association_, 1-16.  [link](http://dx.doi.org/10.1002/jaa2.107){:target="\_blank"} [pdf](/files/publications/Cho-2024-JAAEA.pdf){:target="\_blank"}
 
 ### 2022
 
@@ -34,7 +34,7 @@ permalink: /publications/
 
   * **Resonance in physiologically structured population models** 
   
-    KG and André M. de Roos.  _Bulletin of Mathematical Biology_ 83:86. [link](\https://link.springer.com/article/10.1007/s11538-021-00915-2){:target="\_blank"} [preprint](https://www.biorxiv.org/content/10.1101/2021.01.18.427157v2){:target="\_blank"}
+    KG and André M. de Roos.  _Bulletin of Mathematical Biology_ 83:86. [link](https://link.springer.com/article/10.1007/s11538-021-00915-2){:target="\_blank"} [preprint](https://www.biorxiv.org/content/10.1101/2021.01.18.427157v2){:target="\_blank"}
 
   * **Stony coral populations are more sensitive to changes in vital rates in disturbed environments** 
   
@@ -54,7 +54,7 @@ permalink: /publications/
 
   * **Contest models highlight inherent inefficiencies of scientific funding competitions** 
   
-    KG and Carl T. Bergstrom.  _PLoS Biology_ 17(1):e3000065.  [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000065){:target="\_blank"}
+    KG and Carl T. Bergstrom.  _PLoS Biology_ 17(1):e3000065.  [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000065){:target="\_blank"} [pdf](/files/publications/Gross-2019-PlosBiol.pdf){:target="\_blank"}
 	
   * **Drivers of elevational richness peaks, evaluated for trees in the east Himalaya** 
   
@@ -68,7 +68,7 @@ permalink: /publications/
 	
  * **A framework for identifying and characterising coral-reef "oases" against a backdrop of degradation** 
  
-    James R. Guest, Peter J. Edmunds, *et al.*  _Journal of Applied Ecology_ 55: 2865 -- 2875.  [link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13179){:target="\_blank"}
+    James R. Guest, Peter J. Edmunds, *et al.*  _Journal of Applied Ecology_ 55: 2865 -- 2875.  [link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13179){:target="\_blank"} [pdf](/files/publications/Guest-2018-JAE.pdf){:target="\_blank"}
 
 ### 2016
 
@@ -120,11 +120,11 @@ permalink: /publications/
 
  * **Do growing degree days predict phenology across butterfly species?**
  
-    Heather L. Cayton, Nick M. Haddad, *et al.*   _Ecology_ 96: 1473--1479.  [link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/15-0131.1){:target="\_blank"}
+    Heather L. Cayton, Nick M. Haddad, *et al.*   _Ecology_ 96: 1473--1479.  [link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/15-0131.1){:target="\_blank"} [pdf](/files/publications/Cayton-2015-Ecology.pdf){:target="\_blank"}
 	
  * **Species richness, but not phylogenetic diversity, influences community biomass production and temporal stability in a re-examination of 16 grassland biodiversity studies**
  
-    Patrick Venail, KG, , *et al.*    _Functional Ecology_ 29: 615--626.  [link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12432){:target="\_blank"}
+    Patrick Venail, KG, , *et al.*    _Functional Ecology_ 29: 615--626.  [link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12432){:target="\_blank"} [pdf](/files/publications/Venail-2015-FunctionalEcol.pdf){:target="\_blank"}
 
  * **The community ecology of pathogens: coinfection, coexistence, and community composition**
  
@@ -154,7 +154,7 @@ permalink: /publications/
 
  * **Species richness and the temporal stability of biomass production: A new analysis of recent biodiversity experiments**
  
-    KG, Bradley J. Cardinale, *et al.*    _American Naturalist_ 183: 1-12.  [link](https://www.journals.uchicago.edu/doi/full/10.1086/673915){:target="\_blank"} 
+    KG, Bradley J. Cardinale, *et al.*    _American Naturalist_ 183: 1-12.  [link](https://www.journals.uchicago.edu/doi/full/10.1086/673915){:target="\_blank"} [pdf](/files/publications/Gross-2014-AN.pdf){:target="\_blank"} [supplement](/files/publications/Gross-2014-AN-SOM.pdf){:target="\_blank"}
 
  * **Inference for finite-sample trajectories in dynamic multi-state site-occupancy models using hidden Markov model smoothing**
  
@@ -188,7 +188,7 @@ permalink: /publications/
 
  * **Quantifying secondary pest outbreaks in cotton and their monetary cost with causal inference statistics**
  
-    KG and Jay A. Rosenheim.   _Ecological Applications_ 21: 2770-2780.  [link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/11-0118.1){:target="\_blank"}
+    KG and Jay A. Rosenheim.   _Ecological Applications_ 21: 2770-2780.  [link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/11-0118.1){:target="\_blank"} [pdf](/files/publications/Gross-2011-EcolAppl.pdf)
 
  * **Plant diversity and the stability of foodwebs**
  
@@ -226,7 +226,7 @@ permalink: /publications/
 
  * **Positive interactions among competitors can produce species-rich communities**
  
-   KG.  _Ecology Letters_ 11: 929-936.  [link](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1461-0248.2008.01204.x){:target="\_blank"}
+   KG.  _Ecology Letters_ 11: 929-936.  [link](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1461-0248.2008.01204.x){:target="\_blank"} [pdf](/files/publications/Gross-2008-ELE.pdf)
 
  * **Trophic and fishery interactions between Pacific hake and rockfish: effect on rockfish population rebuilding times**
  
@@ -238,7 +238,7 @@ permalink: /publications/
 
  * **Fusing spatial resource heterogeneity with a competition-colonization trade-off in model communities**
  
-    KG. _Theoretical Ecology_ 1: 65-75.  [link](https://link.springer.com/article/10.1007/s12080-007-0005-x){:target="\_blank"}
+    KG. _Theoretical Ecology_ 1: 65-75.  [link](https://link.springer.com/article/10.1007/s12080-007-0005-x){:target="\_blank"} [pdf](/files/publications/Gross-2008-THEE.pdf)
 
 ### 2007
 
