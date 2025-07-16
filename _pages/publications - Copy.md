@@ -7,7 +7,7 @@ permalink: /publications/
 
   * **Revisiting the replication crisis without false positives**
   
-    Joe Bak-Coleman, Richard Mann, *et al.*. [link](https://osf.io/preprints/socarxiv/rkyf7/){:target="\_blank"}
+    Joe Bak-Coleman, Richard Mann, *et al.*. [link](https://osf.io/preprints/socarxiv/rkyf7_v1){:target="\_blank"}
 
  
 ### 2024
