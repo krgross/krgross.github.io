@@ -8,6 +8,10 @@ permalink: /publications/
   * **Will anyone review this paper? Screening, sorting, and the feedback cycles that imperil peer review**
   
     Carl T. Bergstrom and KG. [link](http://arxiv.org/abs/2507.10734){:target="\_blank"}
+    
+  * **How competition propels scientific risk-taking**
+  
+    KG and Carl T. Bergstrom. [link](http://arxiv.org/abs/2509.06718){:target="\_blank"}
 
   * **Revisiting the replication crisis without false positives**
   

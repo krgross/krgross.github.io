@@ -5,6 +5,10 @@ permalink: /publications/
 
 ### Working papers (comments welcome)
 
+  * **Will anyone review this paper? Screening, sorting, and the feedback cycles that imperil peer review**
+  
+    Carl T. Bergstrom and KG. [link](http://arxiv.org/abs/2507.10734){:target="\_blank"}
+
   * **Revisiting the replication crisis without false positives**
   
     Joe Bak-Coleman, Richard Mann, *et al.*. [link](https://osf.io/preprints/socarxiv/rkyf7_v1){:target="\_blank"}
