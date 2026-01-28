@@ -18,6 +18,12 @@ permalink: /publications/
     Joe Bak-Coleman, Richard Mann, *et al.*. [link](https://osf.io/preprints/socarxiv/rkyf7_v1){:target="\_blank"}
 
  
+### 2026
+
+ * **Habitat fragmentation alters post-dispersal more than pre-dispersal seed predation through edge effects** 
+  
+    Thomas H.A. Smith, Lars A. Brudvig, and 7 others. _Ecosphere_, in press. 
+
 ### 2024
 
  * **Rationalizing risk aversion in science: Why incentives to work hard clash with incentives to take risks** 
