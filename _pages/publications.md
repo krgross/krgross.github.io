@@ -16,6 +16,10 @@ permalink: /publications/
  
 ### 2026
 
+* **Capturing dynamic climate change and wildfire interactions in population models of a threatened plant**
+  
+    Ryan D. O'Connell, Cecil C. Frost, KG, and William F. Morris. _Biological Conservation_, in press.  
+
 * **Screening, sorting, and the feedback cycles that imperil peer review**
   
     Carl T. Bergstrom and KG. _PLoS Biology_, in press.  [preprint](http://arxiv.org/abs/2507.10734){:target="\_blank"}

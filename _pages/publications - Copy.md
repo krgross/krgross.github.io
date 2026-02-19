@@ -4,10 +4,6 @@ permalink: /publications/
 ---
 
 ### Working papers (comments welcome)
-
-  * **Will anyone review this paper? Screening, sorting, and the feedback cycles that imperil peer review**
-  
-    Carl T. Bergstrom and KG. [link](http://arxiv.org/abs/2507.10734){:target="\_blank"}
     
   * **How competition propels scientific risk-taking**
   
@@ -20,9 +16,13 @@ permalink: /publications/
  
 ### 2026
 
- * **Habitat fragmentation alters post-dispersal more than pre-dispersal seed predation through edge effects** 
+* **Screening, sorting, and the feedback cycles that imperil peer review**
   
-    Thomas H.A. Smith, Lars A. Brudvig, and 7 others. _Ecosphere_, in press. 
+    Carl T. Bergstrom and KG. _PLoS Biology_, in press.  [preprint](http://arxiv.org/abs/2507.10734){:target="\_blank"}
+
+* **Habitat fragmentation alters post-dispersal more than pre-dispersal seed predation through edge effects** 
+  
+    Thomas H.A. Smith, Lars A. Brudvig, *et al.*. _Ecosphere_, in press. 
 
 ### 2024
 
