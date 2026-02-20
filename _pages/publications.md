@@ -16,7 +16,7 @@ permalink: /publications/
  
 ### 2026
 
-* **Capturing dynamic climate change and wildfire interactions in population models of a threatened plant**
+* **Incorporating climate-driven disturbance shifts in population models reveals non-additive dynamics**
   
     Ryan D. O'Connell, Cecil C. Frost, KG, and William F. Morris. _Biological Conservation_, in press.  
 
