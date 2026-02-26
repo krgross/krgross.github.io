@@ -22,7 +22,7 @@ permalink: /publications/
 
 * **Screening, sorting, and the feedback cycles that imperil peer review**
   
-    Carl T. Bergstrom and KG. _PLoS Biology_, in press.  [preprint](http://arxiv.org/abs/2507.10734){:target="\_blank"}
+    Carl T. Bergstrom and KG. _PLoS Biology_ 24(2):e3003650.  [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003650){:target="\_blank"}
 
 * **Habitat fragmentation alters post-dispersal more than pre-dispersal seed predation through edge effects** 
   

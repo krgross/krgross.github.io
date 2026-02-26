@@ -18,7 +18,7 @@ permalink: /publications/
 
 * **Incorporating climate-driven disturbance shifts in population models reveals non-additive dynamics**
   
-    Ryan D. O'Connell, Cecil C. Frost, KG, and William F. Morris. _Biological Conservation_, in press.  
+    Ryan D. O'Connell, Cecil C. Frost, KG, and William F. Morris. _Biological Conservation_ 316:111770.  
 
 * **Screening, sorting, and the feedback cycles that imperil peer review**
   
