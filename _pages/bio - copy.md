@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-![](/images/kg_headshot.JPG)  
+![](/images/profile-photo-250x250.jpg)  
 
 I am a Professor of Statistics at North Carolina State University.
 
