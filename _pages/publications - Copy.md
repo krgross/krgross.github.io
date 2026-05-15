@@ -18,7 +18,7 @@ permalink: /publications/
 
 * **Incorporating climate-driven disturbance shifts in population models reveals non-additive dynamics**
   
-    Ryan D. O'Connell, Cecil C. Frost, KG, and William F. Morris. _Biological Conservation_ 316:111770.  [link](https://doi.org/10.1016/j.biocon.2026.111770){:target="\_blank"}
+    Ryan D. O'Connell, Cecil C. Frost, KG, and William F. Morris. _Biological Conservation_ 316:111770.  
 
 * **Screening, sorting, and the feedback cycles that imperil peer review**
   
@@ -26,7 +26,7 @@ permalink: /publications/
 
 * **Habitat fragmentation alters post-dispersal more than pre-dispersal seed predation through edge effects** 
   
-    Thomas H.A. Smith, Lars A. Brudvig, *et al.*. _Ecosphere_ 17:e70638.  [link](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70638){:target="\_blank"}
+    Thomas H.A. Smith, Lars A. Brudvig, *et al.*. _Ecosphere_, in press. 
 
 ### 2024
 
